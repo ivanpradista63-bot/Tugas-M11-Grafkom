@@ -1,14 +1,6 @@
 # 3D Visual Realism Suite (Praktikum Grafika Komputer - Minggu ke-11)
 
-**Mata Kuliah:** Grafika Komputer (CGO-301) — 2 SKS  
-**Dosen Pengampu:** Drs. Bambang Sujatmiko, M.T.  
-**Nama Mahasiswa:** Ivan Okta Arya Pradista  
-**NIM:** 25050974023  
-**Kelas:** 2025A / S1 Pendidikan Teknologi Informasi  
-**Repository GitHub:** https://github.com/ivanokta/Grafika-Komputer-3D-Visual-Realism-Suite  
-**Teknologi:** Java 17+ (JDK 25), LWJGL 3.3.3 (OpenGL 3.3 Core, GLFW, STBImage), JOML 1.10.5, GLSL 330 core  
 
----
 
 ## 1. Ringkasan Proyek
 
