@@ -1,0 +1,22 @@
+=========================================================================
+             HASIL PENGUKURAN KINERJA RENDERING (FPS BENCHMARK)          
+                 3D VISUAL REALISM SUITE - MINGGU 11                    
+=========================================================================
+Konfigurasi Pengujian                                   | Rata-rata FPS
+-------------------------------------------------------------------------
+Phong Shading Model                                     |   4825,4 FPS
+Blinn-Phong Shading Model                               |  19044,0 FPS
+Flat Shading (Per-Face Normal)                          |  16982,7 FPS
+Smooth Shading (Per-Vertex Normal)                      |  18279,3 FPS
+Z-Buffer Depth Test ON                                  |  14657,0 FPS
+Z-Buffer Depth Test OFF (Overlap Artifact)              |  19217,8 FPS
+Back-Face Culling ON                                    |  26384,1 FPS
+Back-Face Culling OFF                                   |  18867,3 FPS
+Texture Filtering Nearest (Aliasing/Moiré)              |  19757,6 FPS
+Texture Filtering Bilinear+Mipmap (Smooth Anti-aliased) |   9332,9 FPS
+Real-Time Shadow Mapping ON (Dynamic Bias + PCF)        |  11220,0 FPS
+Shadow Mapping OFF                                      |  19913,7 FPS
+Shadow Bias = 0 (Shadow Acne Artifact)                  |  17383,2 FPS
+Shadow Bias Terlalu Besar (Peter Panning Artifact)      |  10146,8 FPS
+Hard Shadow (Tanpa PCF 1x1)                             |  16992,4 FPS
+=========================================================================
